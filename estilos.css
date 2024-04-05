@@ -32,3 +32,11 @@ form{
 a{
     text-decoration: none;
 }
+#miImagen {
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  .mostrar {
+    opacity: 1;
+  }

@@ -13,3 +13,6 @@ function clickBtnCalcular(){
 
     alert("El IMC es: " + Math.round(imc));
 }
+function mostrarImagen() {
+    var imagen = document.getElementById("miImagen");
+    imagen.classList.add("mostrar");}
