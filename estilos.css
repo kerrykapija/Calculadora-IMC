@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+.calc{
+    color: rgb(255, 107, 179);
+}
+.margin{
+    margin-top: 10px;
+}
+.rellenoinput{
+    width: 30%;
+}
+label{
+    text-align: justify;
+}
+.text{
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.btn{
+    font-size: 20px;
+}
+img{
+    max-width: 100%;
+}
+form{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px;
+}
